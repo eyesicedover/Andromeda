@@ -1,0 +1,16 @@
+body {
+  background-image: url("http://www.publicdomainpictures.net/pictures/170000/velka/grunge-background-1463561860q6H.jpg");
+}
+
+.games {
+  display: inline;
+}
+
+.jumbotron {
+  background-color: black;
+}
+
+ul {
+  color: white;
+  font-size: 16pt;
+}
